@@ -2,7 +2,7 @@
 A frontend Web3 developer based in France, also an energy engineer. I'm passionate about Blockchain and entrepreneurship. Have an idea? Let's talk!
 
 ## 🔭 I’m currently working on 
-Sello Chained CO2, a NFT platform that generates CO2 emissions stamps depending on energy consumption. The technologies used are solidity and Web3 js.
+Sello Chained CO2, an NFT platform that generates CO2 emissions stamps depending on energy consumption. The technologies used are solidity and Web3 js.
 
 ## 🌱 I’m currently learning
 Web3 Developement
