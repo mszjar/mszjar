@@ -1,5 +1,5 @@
 # Hi 👋 I'm Mario
-A frontend Web3 developer based in France, also an energy engineer. I'm passionate about Blockchain and entrepreneurship. Have an idea? Let's talk!
+Seeking for Web3 Roles / Engineer trained in React and Solidity. I'm passionate about Blockchain and entrepreneurship. Have an idea? Let's talk!
 
 ## Currently working on 
 Sello Chained CO2, an NFT platform that generates CO2 emissions stamps depending on energy consumption. The technologies used are solidity and Web3 js.
