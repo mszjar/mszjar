@@ -16,7 +16,7 @@ Energy engineer, master in finance and trained Web Developer. I'm interested in
 writing, technology and entrepreneurship since
 2017. I had small experiences in
 entrepreneurship in France and Chile. And
-professional experience in Lille as a green energy
+professional experience in France as a green energy
 engineer. In 2022, I trained as a
 Fullstack developer at Le Wagon Lille.
 
