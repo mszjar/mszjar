@@ -2,7 +2,7 @@
 Seeking for Web3 Roles / Engineer trained in React and Solidity. I'm passionate about Blockchain and entrepreneurship. Have an idea? Let's talk!
 
 ## Currently working on 
-Sello Chained CO2, an NFT platform that generates CO2 emissions stamps depending on energy consumption. The technologies used are solidity and Web3 js.
+Web applications
 
 ## Currently learning
 Web3 Developement
