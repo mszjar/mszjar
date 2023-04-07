@@ -13,12 +13,11 @@ Web3 Developement - Solidity & React
 
 ## Background
 Energy engineer (2011), master in finance (2017) and Web Developer (2021). I'm interested in
-writing, technology and entrepreneurship since
-2017. I had small experiences in
+writing, web3 technology and entrepreneurship since
+2017. I had experiences in
 entrepreneurship in France and Chile. And
-professional experience in France as a green energy
-engineer. In 2022, I trained as a
-Fullstack developer at Le Wagon Lille.
+worked in France as a green energy
+engineer.
 
 ## Contact me
 
