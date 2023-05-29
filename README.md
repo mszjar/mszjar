@@ -1,21 +1,22 @@
-# Hi 👋 I'm Mario
-I'm Web 3 Developer trained in Ruby on Rails, Javascript and Solidity. I'm passionate about Blockchain and entrepreneurship. Have an idea? Let's talk!
+# Hi there 👋 I'm Mario
+As a dedicated Web 3 Developer, my experience covers Solidity, React JS, and Ruby on Rails. With a keen interest in Blockchain and entrepreneurship, I'm always open to exploring new ideas and collaborations. My work aligns with the philosophy of open-source and shared knowledge for a stronger tech community.
 
-## Currently working on 
-Web applications - Ruby on Rails
+## Deep in the trenches with
+Smart contracts - Focused on Solidity
+Web applications - Crafting with Ruby on Rails
 
-## Currently learning
-Web3 Developement - Solidity & React
+## On my learning path
+Web3 Development - Diving deeper into Solidity & React
+Passionate about code, open for collaborations, and ready to make a difference. Let's get coding!
 
 ## Some technologies I use
 
 <p align="left"> <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rails/homepage/a1180464e669c9e54498f4315e3e65333e72b335/images/rails-logo.svg" alt="rails" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ConsenSysMesh/solidity-logo/af19d2469fb1af63a54a29ab53a7d60f59325933/solidity-logo.svg" alt="solidity" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> </p>
 
-## Background
-Energy engineer (2011), master in finance (2017) and Web Developer (2021). I'm interested in
- web3 technology and entrepreneurship.
- 
- Feel free to contact me.
+## My Journey
+I embarked on my professional journey as an Energy Engineer in 2011, transitioned into the finance domain with a Master's degree in 2017, and ventured into the digital realm as a Web Developer in 2021. My interests lie at the intersection of web3 technology and entrepreneurship. 
+
+Open to connections and collaborations. Feel free to reach out!
 
 ## Contact me
 
