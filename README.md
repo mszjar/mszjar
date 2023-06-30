@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Mario
-As a Web 3 Developer, my experience covers Solidity, React JS, and Ruby on Rails. With a keen interest in Blockchain and entrepreneurship, I'm always open to exploring new ideas and collaborations. My work aligns with the philosophy of open-source and shared knowledge for a stronger tech community.
+As a Web 3 Developer, my experience covers Solidity, React JS, and Ruby on Rails. With a keen interest in Blockchain and entrepreneurship, I'm always open to exploring new ideas and collaborations. My work aligns with the philosophy of decentralization and shared knowledge in community.
 
 ## Deep in the trenches with
 Smart contracts - Focused on Solidity
