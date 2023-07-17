@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Mario
-As a Web 3 Developer, my experience covers Solidity, React JS, and Ruby on Rails. With a keen interest in Blockchain and entrepreneurship, I'm always open to exploring new ideas and collaborations. My work aligns with the philosophy of decentralization and shared knowledge in community.
+As a Software Engineer, my experience covers Ruby on Rails, React JS, and Solidity. With a keen interest in Blockchain and entrepreneurship, I'm always open to exploring new ideas and collaborations. My work aligns with the philosophy of decentralization and shared knowledge in community.
 
 ## Deep in the trenches with
 Smart contracts - Focused on Solidity
 Web applications - Ruby on Rails
 
 ## On my learning path
-Web3 Development - Solidity & React
+Web3 Development - Solidity, Next & React JS
 Passionate about code, open for collaborations, and ready to make a difference. Let's get coding!
 
 ## Some technologies I use
@@ -36,7 +36,7 @@ Passionate about code, open for collaborations, and ready to make a difference. 
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> </p>
 
 ## My Journey
-I embarked on my professional journey as an Energy Engineer in 2011, transitioned into the finance domain with a Master's degree in 2017, and ventured into the digital realm as a Web Developer in 2021. My interests lie at the intersection of web3 technology and entrepreneurship. 
+Having an entrepreneurial vision, I embarked on my professional journey as an Energy Engineer in 2011, upgraded through a Corporate Finance Master's degree in 2017 at a well reputed Business School, and ventured into the digital realm as a Web Developer in 2020. My interests lie at the intersection of technology and entrepreneurship. 
 
 Open to connections and collaborations. Feel free to reach out!
 
