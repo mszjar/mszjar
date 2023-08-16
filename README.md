@@ -36,7 +36,7 @@ Passionate about code, open for collaborations, and ready to make a difference. 
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> </p>
 
 ## My Journey
-Having an entrepreneurial vision, I embarked on my professional journey as an Energy Engineer in 2011, upgraded through a Corporate Finance Master's degree in 2017 at a well reputed Business School, and ventured into the digital realm as a Web Developer in 2020. My interests lie at the intersection of technology and entrepreneurship. 
+Having an entrepreneurial vision, I embarked on my professional journey as an Energy Engineer in 2011, upgraded through a Corporate Finance Master's degree in 2017 at a well reputed Business School, and ventured into the digital realm as a Web Developer in 2019. My interests lie at the intersection of technology and entrepreneurship. 
 
 Open to connections and collaborations. Feel free to reach out!
 
