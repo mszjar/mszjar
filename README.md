@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Mario
-As a Software Engineer, my experience covers Ruby on Rails, React JS, and Solidity. With a keen interest in Blockchain and entrepreneurship, I'm always open to exploring new ideas and collaborations. My work aligns with the philosophy of decentralization and shared knowledge in community.
+As a Software Engineer, my experience covers Next JS, React JS, Tailwind css, Solidity and Ruby on Rails. With a keen interest in Blockchain and entrepreneurship, I'm always open to exploring new ideas and collaborations. My work aligns with the philosophy of decentralization and shared knowledge in community.
 
-## Deep in the trenches with
+## Working on
 Smart contracts - Focused on Solidity
-Web applications - Ruby on Rails
+Web applications - Next JS React JS Tailwind
 
 ## On my learning path
 Web3 Development - Solidity, Next & React JS
