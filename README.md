@@ -3,6 +3,7 @@ With a keen interest in Blockchain and entrepreneurship, I'm always open to expl
 
 ## Working on
 Frontend: NextJS 13 framework
+
 Backend: NodeJS, Ruby & Solidity
 
 ## On my learning path
