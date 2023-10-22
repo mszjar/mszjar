@@ -2,7 +2,7 @@
 With a keen interest in Blockchain and entrepreneurship, I'm always open to exploring new ideas and collaborations. My work aligns with the philosophy of decentralization and shared knowledge in community.
 
 ## Working on
-Frontend: NextJS 13 framework
+Frontend: NextJS 13, TailwindCSS and Typescript
 
 Backend: NodeJS, Ruby & Solidity
 
