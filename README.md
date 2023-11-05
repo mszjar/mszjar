@@ -1,12 +1,9 @@
 # Hi there 👋 I'm Mario
 I'm FullStack Developer, optimist, and have a keen interest in UI and Front-end. I use Next.js
-Next.js
 , TailwindCSS
-TailwindCSS
 , and TypeScript
-TypeScript
  as my favorite tools.
-My entrepreneurial vision, focused on UI, is one of my strengths, since I have experience in the startup world, having been incubated at euratechnologies logo
+My entrepreneurial vision, focused on UI, is one of my strengths, since I have experience in the startup world, having been incubated at 
 Euratechnologies
 , the Europe's biggest incubator.
 
