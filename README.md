@@ -1,5 +1,14 @@
 # Hi there 👋 I'm Mario
-With a keen interest in Blockchain and entrepreneurship, I'm always open to exploring new ideas and collaborations. My work aligns with the philosophy of decentralization and shared knowledge in community.
+I'm FullStack Developer, optimist, and have a keen interest in UI and Front-end. I use Next.js
+Next.js
+, TailwindCSS
+TailwindCSS
+, and TypeScript
+TypeScript
+ as my favorite tools.
+My entrepreneurial vision, focused on UI, is one of my strengths, since I have experience in the startup world, having been incubated at euratechnologies logo
+Euratechnologies
+, the Europe's biggest incubator.
 
 ## Working on
 Frontend: NextJS 13, TailwindCSS and Typescript
