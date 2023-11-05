@@ -8,7 +8,7 @@ Euratechnologies
 , the Europe's biggest incubator.
 
 ## Working on
-Frontend: NextJS 13, TailwindCSS and Typescript
+Frontend: NextJS, TailwindCSS and Typescript
 
 Backend: NodeJS, Ruby & Solidity
 
