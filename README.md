@@ -10,7 +10,7 @@ Euratechnologies
 ## Working on
 Frontend: NextJS, TailwindCSS and Typescript
 
-Backend: NodeJS, Ruby & Solidity
+Backend: Python, Ruby & Solidity
 
 ## On my learning path
 Eventually I want to learn Rust.
