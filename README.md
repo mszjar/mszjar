@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Mario
-I'm FullStack Developer, optimist, and have a keen interest in UI and Front-end. I use Next.js
+an energy engineer and software developer, optimist, with a keen interest in UI and Front-end. As a programmer I use
 , TailwindCSS
 , and TypeScript
  as my favorite tools.
