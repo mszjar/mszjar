@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Mario
 an energy engineer and software developer, optimist, with a keen interest in UI and Front-end. As a programmer I use
+Next JS
 , TailwindCSS
-, and TypeScript
+ and TypeScript
  as my favorite tools.
 My entrepreneurial vision, focused on UI, is one of my strengths, since I have experience in the startup world, having been incubated at 
 Euratechnologies
@@ -13,7 +14,7 @@ Frontend: NextJS, TailwindCSS and Typescript
 Backend: Python, Ruby & Solidity
 
 ## On my learning path
-Eventually I want to learn Rust.
+Rust
 
 ## Some technologies I use
 
@@ -37,12 +38,10 @@ Eventually I want to learn Rust.
 <!-- node js -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <!-- postman -->
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<!-- cypress -->
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> </p>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 ## My Journey
-My interests lie at the intersection of technology and energy. 
+My interests lie at the intersection of software development and energy.
 
 Open to connections and collaborations. Feel free to reach out!
 
