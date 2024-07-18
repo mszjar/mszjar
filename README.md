@@ -1,20 +1,22 @@
 # Hi there 👋 I'm Mario
-an energy engineer and software developer, optimist, with a keen interest in UI and Front-end. As a programmer I use
+an energy engineer and software developer, optimist, with a keen interest in UX/UI and Front-end. As a programmer I use
 Next JS
 , TailwindCSS
  and TypeScript
  as my favorite tools.
-My entrepreneurial vision, focused on UI, is one of my strengths, since I have experience in the startup world, having been incubated at 
+My entrepreneurial vision is one of my strengths, since I have experience in the startup world, having been incubated at 
 Euratechnologies
 , the Europe's biggest incubator.
 
-## Working on
+## My Stack
 Frontend: NextJS, TailwindCSS and Typescript
 
-Backend: Python, Ruby & Solidity
+Backend: NodeJS, Solidity, Ruby.
+
+Data: Python, Excel.
 
 ## On my learning path
-Rust
+Haskell
 
 ## Some technologies I use
 
@@ -23,7 +25,7 @@ Rust
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <!-- javascript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<!-- ruby on rails -->
+<!-- Main technologies I use rails -->
 <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rails/homepage/a1180464e669c9e54498f4315e3e65333e72b335/images/rails-logo.svg" alt="rails" width="40" height="40"/> </a> 
 <!-- solidity -->
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ConsenSysMesh/solidity-logo/af19d2469fb1af63a54a29ab53a7d60f59325933/solidity-logo.svg" alt="solidity" width="40" height="40"/> </a>
