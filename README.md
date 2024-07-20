@@ -9,11 +9,13 @@ Euratechnologies
 , the Europe's biggest incubator.
 
 ## My Stack
-Frontend: NextJS, TailwindCSS and Typescript
+Frontend: React, TailwindCSS and Typescript
 
-Backend: NodeJS, Solidity, Ruby.
+Backend: Ruby & Solidity.
 
 Data: Python, Excel.
+
+FullStack: NextJS & Rails
 
 ## On my learning path
 Haskell
