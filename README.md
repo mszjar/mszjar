@@ -1,4 +1,4 @@
-# Hi there, I'm Mario
+# Hi there, 👋 I'm Mario
 an energy engineer and software developer, optimist, with a keen interest in UX/UI and Front-end. As a programmer I use
 Next JS
 , TailwindCSS
