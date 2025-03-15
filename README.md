@@ -18,7 +18,7 @@ Data: Python, Excel.
 FullStack: NextJS & Rails
 
 ## On my learning path
-Haskell
+Cardano smartcontracts
 
 ## Some technologies I use
 
